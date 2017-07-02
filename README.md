@@ -14,5 +14,9 @@ In this project, you'll classify images from the [CIFAR-10 dataset][2]. The data
 
 In this project, you'll generate your own Simpsons TV scripts using RNNs. You'll be using part of the Simpsons dataset of scripts from 27 seasons. The Neural Network you'll build will generate a new TV script for a scene at Moe's Tavern.
 
+# Language Translation
+
+In this project, you’re going to take a peek into the realm of neural network machine translation. You’ll be training a sequence to sequence model on a dataset of English and French sentences that can translate new sentences from English to French.
+
 [1]: https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
 [2]: https://www.cs.toronto.edu/~kriz/cifar.html
